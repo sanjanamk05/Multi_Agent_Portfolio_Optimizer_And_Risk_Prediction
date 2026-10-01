@@ -1,0 +1,33 @@
+# Core data science and ML libraries
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+scipy==1.10.1
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.0
+
+# Financial data libraries
+yfinance==0.2.28
+ta==0.10.2
+pandas-ta==0.3.14b0
+
+# Reinforcement Learning
+stable-baselines3==2.0.0
+gymnasium==0.28.1
+
+# Dashboard and visualization
+streamlit==1.23.1
+streamlit-autorefresh==0.0.3
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+joblib==1.2.0
+tqdm==4.65.0
+requests==2.31.0
+
+# Jupyter (optional, for development)
+jupyter==1.0.0
+notebook==6.5.3
+ipython==8.12.0
